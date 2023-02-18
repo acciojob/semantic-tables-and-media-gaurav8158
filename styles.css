@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-td{
+td,th{
 	border:1px solid black;
 }
 table{
